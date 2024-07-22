@@ -1,0 +1,347 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f40",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6658,
+								"width": 4982,
+								"service": [
+									{
+										"id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f40",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f40/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039"
+						}
+					]
+				}
+			],
+			"height": 6658,
+			"width": 4982,
+			"label": {
+				"none": [
+					"17v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/tei/translation/f039.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/tei/transcription/f039.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/html/translation/f039.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/html/transcription/f039.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f039"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f41",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6658,
+								"width": 4982,
+								"service": [
+									{
+										"id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f41",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f41/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040"
+						}
+					]
+				}
+			],
+			"height": 6658,
+			"width": 4982,
+			"label": {
+				"none": [
+					"18r"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/tei/translation/f040.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/tei/transcription/f040.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/html/translation/f040.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/html/transcription/f040.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f040"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f60",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6658,
+								"width": 4982,
+								"service": [
+									{
+										"id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f60",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								],
+								"thumbnail": [
+									{
+										"id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f60/full/124,192/0/default.jpg",
+										"format": "image/jpeg",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059"
+						}
+					]
+				}
+			],
+			"height": 6658,
+			"width": 4982,
+			"label": {
+				"none": [
+					"27v"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/tei/translation/f059.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/tei/transcription/f059.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/html/translation/f059.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059/annotationPage/1/annotation/3",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/html/transcription/f059.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cu-mkp.github.io/domenico-editioncrafter-data/texts/domenico-edition/iiif/canvas/f059"
+						}
+					]
+				}
+			]
+		}
+	],
+	"label": {
+		"en": [
+			"domenico-edition"
+		]
+	},
+	"seeAlso": [
+		{
+			"id": "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json",
+			"type": "Dataset",
+			"label": "Glossary",
+			"format": "text/json"
+		}
+	]
+}
