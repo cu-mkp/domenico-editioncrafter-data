@@ -15,3 +15,7 @@ For this project, use the following command from the base directory to generate 
 Replacing caryatidum.xml with the name of the XML you wish to update. Once these changes are commited to the main branch of this repo, they will be published by GitHub Pages and available for EditionCrafter to render on your website.
 
 See the Getting Started guide on the EditionCrafter homepage for more information.
+
+The images for this example were drawn from the following manifest supplied by the BnF:
+
+https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/manifest.json
